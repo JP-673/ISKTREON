@@ -371,7 +371,7 @@ const LedgerTab = () => `
 const LandingPage = () => `
     <div class="h-screen flex flex-col items-center justify-center p-6 bg-[#020617]">
         <div class="text-center space-y-8 max-w-xl">
-            <h1 class="text-8xl font-black tracking-tighter text-white italic drop-shadow-[0_0_20px_rgba(59,130,246,0.3)]">PLEXtreon</h1>
+            <h1 class="text-8xl font-black tracking-tighter text-white italic drop-shadow-[0_0_20px_rgba(59,130,246,0.3)]">isktreon</h1>
             <p class="text-slate-600 italic">Fueling the New Eden creator economy via ESI-verified telemetry.</p>
             ${state.isLoading || state.isExchanging ? `
                 <div class="w-10 h-10 border-2 border-blue-500 border-t-transparent rounded-full animate-spin mx-auto"></div>
