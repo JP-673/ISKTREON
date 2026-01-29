@@ -1,0 +1,5 @@
+{
+  "name": "PLEXtreon - EVE Online Creator Platform",
+  "description": "Functional prototype of a PLEX-based patronage platform for EVE Online creators. Features simulated SSO, tier management, and ESI wallet journal verification logic.",
+  "requestFramePermissions": []
+}
