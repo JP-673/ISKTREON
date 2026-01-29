@@ -6,7 +6,7 @@
 
 // --- SSO CONFIGURATION ---
 const DEFAULT_CLIENT_ID = "4ad5f68b3968485fba0a322dbd79b990";
-const REDIRECT_URI = "http://127.0.0.1:5500/index.html";
+const REDIRECT_URI = "https://jp-673.github.io/PLEXTREON/";
 
 // Utility: Strict Base64URL for CCP PKCE compliance (RFC 7636)
 const base64UrlEncode = (buffer) => {
